@@ -2,29 +2,21 @@
 <br>
 Profile under construction. 
 
-<!--<div id="header" align="center">
-  <img src="imgurl" width="100"/>
-</div>
-<br>
+# Hey, I'm Nathannie! 
 
-<div id="social-media" align="center">
-  <a target="_blank" href="https://www.linkedin.com/in/nathanniegomes/"><img src="[sm-icon](https://media-exp1.licdn.com/dms/image/C4D03AQG3QucqF2u8nw/profile-displayphoto-shrink_400_400/0/1664228629293?e=1671667200&v=beta&t=NudjF17f3fLhVlSdw7P03xSoJtI62Vc17VFzOGCvR_0)" width="50" height="auto"/></a>
-</div>
-<a target="_blank" href="https://twitter.com/nathgoesdigital"><img src="[sm-icon](https://media-exp1.licdn.com/dms/image/C4D03AQG3QucqF2u8nw/profile-displayphoto-shrink_400_400/0/1664228629293?e=1671667200&v=beta&t=NudjF17f3fLhVlSdw7P03xSoJtI62Vc17VFzOGCvR_0)" width="50" height="auto"/></a>
-</div>
--->
 
-<!--
-**nathannieg/nathannieg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About me
 
-Here are some ideas to get you started:
+I'm a writer based in Brazil, currently looking to expand my skills in web development. I've always been good at seeing the big picture and finding new solutions to make my daily routine easier and more productive and that is exactly why I find technology so fascinating.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+## 🛠 Stats
+
+Javascript, HTML, CSS
+## 🔗 Find me online
+
+
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nathanniegomes/)
+
+[![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/nathgoesdigital)
