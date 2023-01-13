@@ -1,6 +1,6 @@
 <h1>Hey, I'm Nathannie! 😉</h1>
 <br>
-I'm a web writer based in Brazil, currently looking to expand my skills in web development. I've always been good at seeing the big picture and finding new solutions to make my daily routine easier and more productive and that is exactly why I find technology so fascinating.
+I'm a web writer based in Brazil, currently looking to expand my skills in web development. Technology can make life easier and more productive and that's exactly why I'm interested in learning more about it every day.
 <br>
 <br>
 
