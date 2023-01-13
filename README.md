@@ -6,14 +6,12 @@
 I'm a web writer based in Brazil, currently looking to expand my skills in web development. I've always been good at seeing the big picture and finding new solutions to make my daily routine easier and more productive and that is exactly why I find technology so fascinating.
 <br>
 <br>
-<br>
 ## 🛠 Stats
 <br>
 <br>
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nathannieg&theme=radical)
 
-<br>
 <br>
 <br>
 ## 🔗 Find me online
