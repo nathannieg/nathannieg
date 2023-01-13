@@ -3,15 +3,24 @@
 
 ## 🚀 About me
 
-I'm a writer based in Brazil, currently looking to expand my skills in web development. I've always been good at seeing the big picture and finding new solutions to make my daily routine easier and more productive and that is exactly why I find technology so fascinating.
-
-
+I'm a web writer based in Brazil, currently looking to expand my skills in web development. I've always been good at seeing the big picture and finding new solutions to make my daily routine easier and more productive and that is exactly why I find technology so fascinating.
+<br>
+<br>
+<br>
 ## 🛠 Stats
+<br>
+<br>
 
-Javascript, HTML, CSS
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nathannieg&theme=radical)
+
+<br>
+<br>
+<br>
 ## 🔗 Find me online
+<br>
+<br>
 
-
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nathanniegomes/)
-
-[![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/nathgoesdigital)
+<div>
+<a href="https://twitter.com/nathgoesdigital" target="_blank"><img src="https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/nathanniegomes/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+</div>
