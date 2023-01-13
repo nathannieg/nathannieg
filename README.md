@@ -1,14 +1,9 @@
-<h1 align="center">Hey, I'm Nathannie Gomes! 😉</h1>
+<h1 align="center">Hey, I'm Nathannie! 😉</h1>
 <br>
-Profile under construction. 
-
-# Hey, I'm Nathannie! 
-
 
 ## 🚀 About me
 
 I'm a writer based in Brazil, currently looking to expand my skills in web development. I've always been good at seeing the big picture and finding new solutions to make my daily routine easier and more productive and that is exactly why I find technology so fascinating.
-
 
 
 ## 🛠 Stats
